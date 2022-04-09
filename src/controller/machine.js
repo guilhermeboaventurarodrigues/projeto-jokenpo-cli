@@ -1,5 +1,5 @@
 class MachineOptions{
-    constructor(){
+    constructor({opt}){
         this._opt = opt;
     }
 

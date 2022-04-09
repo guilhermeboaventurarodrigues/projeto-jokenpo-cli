@@ -3,4 +3,4 @@ const gameBy = `
     por Guilherme Boaventura.
 `
 
-module.exports = gameby;
+module.exports = gameBy;
